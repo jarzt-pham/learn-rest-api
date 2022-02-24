@@ -8,3 +8,5 @@
 
 -- PJ có sẵn nodemon, gõ script: npm start để chạy server 1 lần.
 
+-- Sử dụng POSTMAN để kiểm tra API
+
