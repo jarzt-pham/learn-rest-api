@@ -1,12 +1,5 @@
--- Ngôn ngữ: Javascript
--- Môi trường: Nodejs
--- Framework: Expressjs
+Language: Javascript -- Environment: Node.js -- Framework: Express.js
 
--- Đây là một project nhỏ dùng để tìm hiểu và làm rõ các vấn đề về API, REST, RESTFul
--- Tìm hiểu về protocol HTTP
--- Sử dụng các phương thức GET, POST, Put, DELETE để đẩy dữ liệu và trả về JSON
+This is a small project used to understand and clarify issues related to API, REST, and RESTful concepts. It involves learning about the HTTP protocol and utilizing the GET, POST, PUT, and DELETE methods to manipulate data and return JSON responses.
 
--- PJ có sẵn nodemon, gõ script: npm start để chạy server 1 lần.
-
--- Sử dụng POSTMAN để kiểm tra API
-
+The project includes nodemon for automatic server reloading. Simply type 'npm start' to run the server.
